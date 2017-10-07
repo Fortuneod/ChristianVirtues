@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.fortuneod.YC"
+    versionCode = "10"
+    version     = "1.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Christian Virtues 1</name>
+
+  <description>
+      MFM Youth Church Search The Scripture App
+  </description>
+    
+  <icon src="images/yc.png" width="148" height="75" density="mdpi" />
+
+  <author href="https://fortuneod.blogspot.com" email="fortuneodesanya@gmail.com">
+      Fortune Odesanya - MFM Jalingo ICT
+  </author>
+
+</widget>
